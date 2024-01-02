@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="">Sepehr Zarei!</a></h1>
-<h3 align="center">Senior Developer In .Net</h3>
+<h3 align="center">Senior Back-End Developer</h3>
 
 [![Youtube](https://img.shields.io/static/v1?label=linducdcd&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/linducdcd?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
